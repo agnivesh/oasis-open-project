@@ -48,7 +48,7 @@ Starred (&bigstar;) organizations have taken the additional step of signing the 
 * [SOAISEC (Sovereign AISecurity) Labs](https://www.sovereignaisecurity.com/) &bigstar;
 * [Technical University of Munich](https://www.tum.de/en/) &bigstar;
 * [Thomson Reuters](http://thomsonreuters.com/) &bigstar;
-* [Trend Micro](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
+* [TrendAI](https://www.trendmicro.com/) &bigstar; &bigtriangledown;
 * [TrojAI](https://www.troj.ai/) &bigstar;
 * [Universite du Quebec en Outaouis](https://uqo.ca/) &bigstar;
 * [VE3](https://www.ve3.global/) &bigstar;
