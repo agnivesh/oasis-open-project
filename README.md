@@ -33,6 +33,8 @@ In addition to this GitHub organization, this project also makes use of other as
 
 If you're interested in participating in any of the CoSAI workstreams, please check out the [onboarding document](https://github.com/cosai-oasis/oasis-open-project/blob/main/ONBOARDING.md). Also, see [CONTRIBUTING.md](CONTRIBUTING.md) for details how to contribute changes to our repositories and communicate with the rest of the project contributors. Please become familiar with and follow the [code of conduct](CODE-OF-CONDUCT.md).
 
+A calendar with all workstream and SIG meetings can be found [here](https://lists.oasis-open-projects.org/g/cosai-op/calendar).
+
 # Governance and Licenses
 
 CoSAI operates under the terms of the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) and the following the licenses:
